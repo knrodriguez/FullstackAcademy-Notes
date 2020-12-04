@@ -121,3 +121,4 @@ A method that acepts an array of multiple promises, and fulfilles iwth a single 
 - Accepts up to 2 callback functions (success and error callback)
 -
 
+<!-- @nested-tags:express,promises,async-->

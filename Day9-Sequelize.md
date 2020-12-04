@@ -123,3 +123,4 @@ Other Useful Class Methods
     Model.update -- Updates all rows matching a given where clause
     Model.destroy -- Deletes all rows matching a given where clause
 
+<!-- @nested-tags:sequelize-->

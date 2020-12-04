@@ -28,3 +28,5 @@ House.hasOne(Student)
 Student.belongsTo(House)
 
 //many to many
+
+<!-- @nested-tags:express,sequelize,sequelize/associations-->

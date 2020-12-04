@@ -103,3 +103,5 @@ A function that executes asynchronously...
 Can have multiple event handlers for one event, they execute in the order you set.
 
 Asynchronous code will only start executing after the synchronous code has finished.
+
+<!-- @nested-tags:nodejs,async-->

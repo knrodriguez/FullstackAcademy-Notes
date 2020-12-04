@@ -36,3 +36,5 @@ const Pizza = () => {
 ## Notes
 - Virtual DOM
 - **The First Law:** State must always be initialized with the appropriate data type
+
+<!-- @nested-tags:react-->
